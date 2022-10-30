@@ -19,7 +19,7 @@ const Layout = () => {
   return (
     <>
       <Navbar />
-      
+      <Home />
       <Footer />
     </>
   );
